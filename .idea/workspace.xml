@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="979018c6-8fdc-48e8-b0c5-9549236a99fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/NV3-ESTRUCTURA -DATOS-MK.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEMANA 1/Clases para figuras.py" afterDir="false" />
-    </list>
+    <list default="true" id="979018c6-8fdc-48e8-b0c5-9549236a99fb" name="Changes" comment="semana1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,11 +90,32 @@
       <updated>1734320085208</updated>
       <workItem from="1734320158816" duration="303000" />
       <workItem from="1734745957007" duration="308000" />
-      <workItem from="1734746771042" duration="1891000" />
+      <workItem from="1734746771042" duration="2464000" />
     </task>
+    <task id="LOCAL-00001" summary="semana1">
+      <option name="closed" value="true" />
+      <created>1734748898458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734748898458</updated>
+    </task>
+    <task id="LOCAL-00002" summary="semana1">
+      <option name="closed" value="true" />
+      <created>1734749120140</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734749120141</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="semana1" />
+    <option name="LAST_COMMIT_MESSAGE" value="semana1" />
   </component>
 </project>
