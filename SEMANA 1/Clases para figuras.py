@@ -1,6 +1,7 @@
 import math
 
 class Circulo:
+
     def __init__(self, radio):
         self.__radio = radio  # Encapsulamos el atributo
 
