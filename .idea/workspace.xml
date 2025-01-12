@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="979018c6-8fdc-48e8-b0c5-9549236a99fb" name="Changes" comment="semana1">
-      <change afterPath="$PROJECT_DIR$/SEMANA 5/EJERCICIO 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEMANA 5/SEMANA 5 LISTAS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEMANA 5/ejercicio 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEMANA 5/ejercicio 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEMANA 5/ejercicio 5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/NV3-ESTRUCTURA -DATOS-MK.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NV3-ESTRUCTURA -DATOS-MK.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEMANA 1/Clases para figuras.py" beforeDir="false" afterPath="$PROJECT_DIR$/SEMANA 1/Clases para figuras.py" afterDir="false" />
-    </list>
+    <list default="true" id="979018c6-8fdc-48e8-b0c5-9549236a99fb" name="Changes" comment="semana  5  ejercicios" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +37,7 @@
     "Python.EJERCICIO 2.executor": "Run",
     "Python.ejercicio 3.executor": "Run",
     "Python.ejercicio 4.executor": "Run",
+    "Python.ejercicio 5.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -106,7 +97,7 @@
       <workItem from="1734320158816" duration="303000" />
       <workItem from="1734745957007" duration="308000" />
       <workItem from="1734746771042" duration="3819000" />
-      <workItem from="1736680591080" duration="3403000" />
+      <workItem from="1736680591080" duration="3751000" />
     </task>
     <task id="LOCAL-00001" summary="semana1">
       <option name="closed" value="true" />
@@ -132,7 +123,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734749437542</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="semana  5  ejercicios">
+      <option name="closed" value="true" />
+      <created>1736700535327</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736700535327</updated>
+    </task>
+    <task id="LOCAL-00005" summary="semana  5  ejercicios">
+      <option name="closed" value="true" />
+      <created>1736700612189</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736700612189</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,12 +147,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="semana1" />
-    <option name="LAST_COMMIT_MESSAGE" value="semana1" />
+    <MESSAGE value="semana  5  ejercicios" />
+    <option name="LAST_COMMIT_MESSAGE" value="semana  5  ejercicios" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/NV3_ESTRUCTURA__DATOS_MK$EJERCICIO_2.coverage" NAME="EJERCICIO 2 Coverage Results" MODIFIED="1736682151071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 5" />
     <SUITE FILE_PATH="coverage/NV3_ESTRUCTURA__DATOS_MK$Clases_para_figuras.coverage" NAME="Clases para figuras Coverage Results" MODIFIED="1736681738720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 1" />
     <SUITE FILE_PATH="coverage/NV3_ESTRUCTURA__DATOS_MK$ejercicio_3.coverage" NAME="ejercicio 3 Coverage Results" MODIFIED="1736699869173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 5" />
     <SUITE FILE_PATH="coverage/NV3_ESTRUCTURA__DATOS_MK$ejercicio_4.coverage" NAME="ejercicio 4 Coverage Results" MODIFIED="1736700283069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 5" />
+    <SUITE FILE_PATH="coverage/NV3_ESTRUCTURA__DATOS_MK$ejercicio_5.coverage" NAME="ejercicio 5 Coverage Results" MODIFIED="1736700449345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 5" />
   </component>
 </project>
