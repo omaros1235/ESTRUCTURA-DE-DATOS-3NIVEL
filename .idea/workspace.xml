@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="979018c6-8fdc-48e8-b0c5-9549236a99fb" name="Changes" comment="LISTAS ENLAZADAS 1">
-      <change afterPath="$PROJECT_DIR$/semana 6/EJERCICIO 2 LISTAS ENLAZADAS.py" afterDir="false" />
+    <list default="true" id="979018c6-8fdc-48e8-b0c5-9549236a99fb" name="Changes" comment="LISTAS ENLAZADAS 3">
+      <change afterPath="$PROJECT_DIR$/PRACTICO EXPERIMENTAL 2/Ejercicio p.ex.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,29 +32,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Notification.DisplayName-DoNotAsk-Vcs Notifications": "VCS notifications",
-    "Notification.DoNotAsk-Vcs Notifications": "true",
-    "Python.Clases para figuras.executor": "Run",
-    "Python.EJERCICIO 2 LISTAS ENLAZADAS.executor": "Run",
-    "Python.EJERCICIO 2.executor": "Run",
-    "Python.LISTAS ENLAZADAS.executor": "Run",
-    "Python.PRACTICO EXPERIMENTAL N1.executor": "Run",
-    "Python.ejercicio 3.executor": "Run",
-    "Python.ejercicio 4.executor": "Run",
-    "Python.ejercicio 5.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Notification.DisplayName-DoNotAsk-Vcs Notifications&quot;: &quot;VCS notifications&quot;,
+    &quot;Notification.DoNotAsk-Vcs Notifications&quot;: &quot;true&quot;,
+    &quot;Python.Clases para figuras.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EJERCICIO 2 LISTAS ENLAZADAS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EJERCICIO 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EJERCICIO 3 LISTAS ENLAZADAS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio p.ex.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LISTAS ENLAZADAS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PRACTICO EXPERIMENTAL N1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio 5.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Clases para figuras" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="NV3-ESTRUCTURA -DATOS-MK" />
@@ -104,7 +106,9 @@
       <workItem from="1734745957007" duration="308000" />
       <workItem from="1734746771042" duration="3819000" />
       <workItem from="1736680591080" duration="7502000" />
-      <workItem from="1737339733951" duration="1588000" />
+      <workItem from="1737339733951" duration="2549000" />
+      <workItem from="1738462194091" duration="2351000" />
+      <workItem from="1738504711067" duration="1931000" />
     </task>
     <task id="LOCAL-00001" summary="semana1">
       <option name="closed" value="true" />
@@ -178,7 +182,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737342119172</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="LISTAS ENLAZADAS 2">
+      <option name="closed" value="true" />
+      <created>1737342442749</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737342442749</updated>
+    </task>
+    <task id="LOCAL-00011" summary="LISTAS ENLAZADAS 3">
+      <option name="closed" value="true" />
+      <created>1737342745743</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737342745743</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,16 +209,20 @@
     <MESSAGE value="semana  5  ejercicios" />
     <MESSAGE value="CODIGO PRACTICO EXPERIMENTAL N1" />
     <MESSAGE value="LISTAS ENLAZADAS 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="LISTAS ENLAZADAS 1" />
+    <MESSAGE value="LISTAS ENLAZADAS 2" />
+    <MESSAGE value="LISTAS ENLAZADAS 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="LISTAS ENLAZADAS 3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/NV3_ESTRUCTURA__DATOS_MK$PRACTICO_EXPERIMENTAL_N1.coverage" NAME="PRACTICO EXPERIMENTAL N1 Coverage Results" MODIFIED="1736704873183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PRACTICO EXPERIMENTAL N 1" />
     <SUITE FILE_PATH="coverage/NV3_ESTRUCTURA__DATOS_MK$EJERCICIO_2.coverage" NAME="EJERCICIO 2 Coverage Results" MODIFIED="1736682151071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 5" />
     <SUITE FILE_PATH="coverage/NV3_ESTRUCTURA__DATOS_MK$LISTAS_ENLAZADAS.coverage" NAME="LISTAS ENLAZADAS Coverage Results" MODIFIED="1737342038752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 6" />
-    <SUITE FILE_PATH="coverage/NV3_ESTRUCTURA__DATOS_MK$Clases_para_figuras.coverage" NAME="Clases para figuras Coverage Results" MODIFIED="1736681738720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 1" />
+    <SUITE FILE_PATH="coverage/NV3_ESTRUCTURA__DATOS_MK$Ejercicio_p_ex_2.coverage" NAME="Ejercicio p.ex.2 Coverage Results" MODIFIED="1738464861367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PRACTICO EXPERIMENTAL 2" />
     <SUITE FILE_PATH="coverage/NV3_ESTRUCTURA__DATOS_MK$ejercicio_3.coverage" NAME="ejercicio 3 Coverage Results" MODIFIED="1736699869173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 5" />
+    <SUITE FILE_PATH="coverage/NV3_ESTRUCTURA__DATOS_MK$Clases_para_figuras.coverage" NAME="Clases para figuras Coverage Results" MODIFIED="1738463940942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 1" />
     <SUITE FILE_PATH="coverage/NV3_ESTRUCTURA__DATOS_MK$ejercicio_4.coverage" NAME="ejercicio 4 Coverage Results" MODIFIED="1736700283069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 5" />
     <SUITE FILE_PATH="coverage/NV3_ESTRUCTURA__DATOS_MK$ejercicio_5.coverage" NAME="ejercicio 5 Coverage Results" MODIFIED="1736704484961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 5" />
     <SUITE FILE_PATH="coverage/NV3_ESTRUCTURA__DATOS_MK$EJERCICIO_2_LISTAS_ENLAZADAS.coverage" NAME="EJERCICIO 2 LISTAS ENLAZADAS Coverage Results" MODIFIED="1737342397217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 6" />
+    <SUITE FILE_PATH="coverage/NV3_ESTRUCTURA__DATOS_MK$EJERCICIO_3_LISTAS_ENLAZADAS.coverage" NAME="EJERCICIO 3 LISTAS ENLAZADAS Coverage Results" MODIFIED="1737342715051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 6" />
   </component>
 </project>
